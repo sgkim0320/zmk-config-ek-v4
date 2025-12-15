@@ -20,6 +20,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: ergodash_left tester_pro_micro
+    shield: ergodash_left
   - board: nice_nano_v2
-    shield: ergodash_right tester_pro_micro
+    shield: ergodash_right
